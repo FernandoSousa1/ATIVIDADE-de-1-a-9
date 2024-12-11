@@ -1,0 +1,7 @@
+b = int(input("Informe lado 1: "))
+h = int(input("Informe lado 2: "))
+h2 = int(input("Informe lado 3: "))
+
+c = b+h+h2
+
+r = print(f"Seu resutados são que Perimetro desse retangulo é igual a {c}.")
